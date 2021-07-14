@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Call-ee
-- 👀 I’m interested in Front-end development, I am open to Jr. Front-end development opportunities!
+- 👀 I’m interested in front-end and software development, I am open to Jr. Front-end development opportunities!
 - 🌱 I’m currently learning advanced HTML,CSS, and Javascript.
 - 📫 How to reach me ... through linkedin (https://www.linkedin.com/in/callytran/) and email (callytran123@gmail.com).
 
